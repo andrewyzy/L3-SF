@@ -1,7 +1,8 @@
 # L3-SF Database Download
 
-Fill out the form to download the L3-SF database
-- [https://forms.gle/2nLcLQKCsx8xnpJh6]
+- <a href="https://forms.gle/2nLcLQKCsx8xnpJh6">Fill out the form to download the L3-SF database</a>
+
+
 
 ## Authors
 
