@@ -1,6 +1,6 @@
 # L3-SF Database Download
 
-- <a href="https://forms.gle/2nLcLQKCsx8xnpJh6">Fill out the form to download the L3-SF database</a>
+- <a href="https://forms.gle/2nLcLQKCsx8xnpJh6?hl=en">Fill out the form to download the L3-SF database</a>
 
 
 
