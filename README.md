@@ -1,4 +1,6 @@
-# L3-SF Database
+# L3-SF Database Download
+
+https://forms.gle/2nLcLQKCsx8xnpJh6
 
 ## Authors
 
