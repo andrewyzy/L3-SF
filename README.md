@@ -1,8 +1,8 @@
+# Level Three Synthetic Fingerprint Generation
+
 # L3-SF Database Download
 
 - <a href="https://forms.gle/2nLcLQKCsx8xnpJh6?hl=en">Fill out the form to download the L3-SF database</a>
-
-
 
 ## Authors
 
@@ -16,7 +16,7 @@ To do
 
 ## License
  
-Copyright (c) 2020, André Brasil Vieira Wyzykowski, Mauricio Pamplona Segundo, Rubisley de Paula Lemes, University of Bahia, Salvador, Brazil
+Copyright (c) 2020, André Brasil Vieira Wyzykowski, Mauricio Pamplona Segundo, Rubisley de Paula Lemes, Federal University of Bahia, Salvador, Brazil
 
 This work is licensed under the Attribution-NonCommercial-ShareAlike 4.0 International License. 
 
