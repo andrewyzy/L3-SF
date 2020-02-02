@@ -1,4 +1,6 @@
-# Level Three Synthetic Fingerprint Generation
+## Level Three Synthetic Fingerprint Generation
+
+![Teaser image](L3SF.png)
 
 # L3-SF Database Download
 
