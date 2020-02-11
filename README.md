@@ -1,4 +1,5 @@
 # Level Three Synthetic Fingerprint Generation
+Paper: https://arxiv.org/abs/2002.03809
 
 ## L3-SF Database Download
 
@@ -12,7 +13,16 @@
 
 ## Citing
 
-To do
+```
+@misc{wyzykowski2020level,
+    title={Level Three Synthetic Fingerprint Generation},
+    author={André Brasil Vieira Wyzykowski and Mauricio Pamplona Segundo and Rubisley de Paula Lemes},
+    year={2020},
+    eprint={2002.03809},
+    archivePrefix={arXiv},
+    primaryClass={cs.CV}
+}
+ ```
 
 ## License
  
