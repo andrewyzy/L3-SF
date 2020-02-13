@@ -1,5 +1,5 @@
 # Level Three Synthetic Fingerprint Generation
-Paper: <a href="https://arxiv.org/abs/2002.03809">https://arxiv.org/abs/2002.03809</a>
+PREPRINT: <a href="https://arxiv.org/abs/2002.03809">https://arxiv.org/abs/2002.03809</a>
 
 ## L3-SF Database Download
 
