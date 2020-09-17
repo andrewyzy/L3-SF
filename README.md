@@ -1,6 +1,14 @@
 # Level Three Synthetic Fingerprint Generation
 PREPRINT: <a href="https://arxiv.org/abs/2002.03809">https://arxiv.org/abs/2002.03809</a>
 
+## L3-SF
+
+- A public database of L3 synthetic fingerprint images with five subsets of 148 identities, with 10 samples per identity, totaling 7400 fingerprint images. 
+- We include sweat pore annotations for 740 images to assist in pore detection research.
+- The synthetic fingerprints contain L3 traits, such as distinct ridge contours and incipient ridges, features that increase the reliability of fingerprint recognition.
+- Huge texture improvement on the fingerprint images.
+- Scratches on fingerprint images.
+
 ## L3-SF Database Download
 
 - <a href="https://forms.gle/2nLcLQKCsx8xnpJh6?hl=en">Fill out the form to download the L3-SF database</a>
