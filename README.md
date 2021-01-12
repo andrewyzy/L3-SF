@@ -1,6 +1,6 @@
 # Level Three Synthetic Fingerprint Generation
-PREPRINT: <a href="https://arxiv.org/abs/2002.03809">https://arxiv.org/abs/2002.03809</a>
-Video presentation: <a href="https://youtu.be/AueL2WUEjD4">https://youtu.be/AueL2WUEjD4</a> 
+- PREPRINT: <a href="https://arxiv.org/abs/2002.03809">https://arxiv.org/abs/2002.03809</a>
+- Video presentation: <a href="https://youtu.be/AueL2WUEjD4">https://youtu.be/AueL2WUEjD4</a> 
 
 ## L3-SF
 
