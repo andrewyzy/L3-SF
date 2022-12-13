@@ -2,6 +2,11 @@
 - PREPRINT: <a href="https://arxiv.org/abs/2002.03809">https://arxiv.org/abs/2002.03809</a>
 - Video presentation: <a href="https://youtu.be/AueL2WUEjD4">https://youtu.be/AueL2WUEjD4</a> 
 
+## Download
+
+- Download:    https://drive.google.com/file/d/1Pxlx_j8Ji8B969U0IzLhl3xCQU6eL9vp/view?usp=sharing 
+- The password for the .zip file is "hbPrAGQY47jkFsurduAyVXBZdSsg6T" (without quotes).  
+
 ## L3-SF
 
 - A public database of L3 synthetic fingerprint images with five subsets of 148 identities, with 10 samples per identity, totaling 7400 fingerprint images. 
